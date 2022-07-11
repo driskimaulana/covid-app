@@ -2,6 +2,9 @@
 
 Application build in flutter that show covid cases count in different country. Data that shown in this application is from RapidAPI.
 
+Download App in <br>
+https://drive.google.com/file/d/1H4JOX0TlMZpNjePfZpkr-5F5VDVdydr1/view?usp=sharing
+
 ### Result
 
 <img src="https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476597.jpg" width="200" height="400" />
