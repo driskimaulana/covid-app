@@ -1,6 +1,8 @@
-# covid_app
+# COVID INFO
 
-A new Flutter project.
+Application build in flutter that show covid cases count in different country. Data that shown in this application is from RapidAPI.
+
+### Result
 
 ## Getting Started
 
