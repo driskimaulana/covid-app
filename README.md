@@ -4,7 +4,7 @@ Application build in flutter that show covid cases count in different country. D
 
 ### Result
 
-![alt text](https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476597.jpg)
+<img src="https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476597.jpg" width="200" height="400" />
 
 ![alt text](https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476578.jpg)
 
