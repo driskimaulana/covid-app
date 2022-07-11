@@ -6,11 +6,18 @@ Application build in flutter that show covid cases count in different country. D
 
 <img src="https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476597.jpg" width="200" height="400" />
 
-![alt text](https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476578.jpg)
+<hr>
 
-![alt text](https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476566.jpg)
+![alt text]()
+<img src="https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476578.jpg" width="200" height="400" />
+<br>
 
-![alt text](https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476554.jpg)
+<img src="https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476566.jpg" width="200" height="400" />
+<br>
+
+![alt text]()
+<img src="https://github.com/driskimaulana/covid-app/blob/main/cvd-screenshots/1657538476554.jpg" width="200" height="400" />
+<br>
 
 ## Getting Started
 
